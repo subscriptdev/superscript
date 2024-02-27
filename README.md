@@ -1,5 +1,4 @@
 # Superscript
-By Subscript
 ## Your new favorite unblocked games site.
 **Features:**
 - *Thousands of games*
@@ -13,3 +12,4 @@ By Subscript
 - *Always being updated*
 - - -
 ## Current version: v0.00.00-build.0
+## URL: [https://super.script.pro/](http://super.script.cl)
