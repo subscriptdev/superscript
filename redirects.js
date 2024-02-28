@@ -7,21 +7,21 @@ document.getElementsByTagName("nav")[0].getElementsByTagName("p")[3].onclick = f
 document.getElementsByTagName("nav")[0].getElementsByTagName("p")[4].onclick = about;
 
 function logo() {
-  window.top.location = "http://super.script.cl/";
+  window.top.location.replace("http://super.script.cl/");
 }
 
 function start() {
-  window.top.location = "http://super.script.cl/setup/";
+  window.top.location.replace("http://super.script.cl/setup/");
 }
 
 function pricing() {
-  window.top.location = "http://super.script.cl/pricing/";
+  window.top.location.replace("http://super.script.cl/pricing/");
 }
 
 function features() {
-  window.top.location = "http://super.script.cl/features/";
+  window.top.location.replace("http://super.script.cl/features/");
 }
 
 function about() {
-  window.top.location = "http://super.script.cl/about/";
+  window.top.location.replace("http://super.script.cl/about/");
 }
