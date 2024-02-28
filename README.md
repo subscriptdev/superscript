@@ -11,5 +11,5 @@
 - *Quick patches*
 - *Always being updated*
 - - -
-## Current version: v0.02.08-build.10
+## Current version: v0.02.17-build.19
 ## URL: [https://super.script.pro/](http://super.script.cl)
