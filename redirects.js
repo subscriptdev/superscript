@@ -1,11 +1,8 @@
-let nav = document.getElementsByTagName("nav")[0];
-let elems = nav.getElementsByTagName("p")
-
-elems[0].onclick = logo;
-elems[1].onclick = start;
-elems[2].onclick = pricing;
-elems[3].onclick = features;
-elems[4].onclick = about;
+document.getElementsByTagName("nav")[0].getElementsByTagName("p")[0].onclick = logo;
+document.getElementsByTagName("nav")[0].getElementsByTagName("p")[1].onclick = start;
+document.getElementsByTagName("nav")[0].getElementsByTagName("p")[2].onclick = pricing;
+document.getElementsByTagName("nav")[0].getElementsByTagName("p")[3].onclick = features;
+document.getElementsByTagName("nav")[0].getElementsByTagName("p")[4].onclick = about;
 
 function logo() {
   window.top.location = "http://super.script.cl/";
