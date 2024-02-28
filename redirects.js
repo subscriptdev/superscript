@@ -1,11 +1,11 @@
 let nav = document.getElementsByTagName("nav")[0];
 let elems = nav.getElementsByTagName("p")
 
-elems[0].onClick = "logo()";
-elems[1].onClick = "start()";
-elems[2].onClick = "pricing()";
-elems[3].onClick = "features()";
-elems[4].onClick = "about()";
+elems[0].onclick = logo;
+elems[1].onclick = start;
+elems[2].onclick = pricing;
+elems[3].onclick = features;
+elems[4].onclick = about;
 
 function logo() {
   window.top.location = "http://super.script.cl/";
