@@ -166,3 +166,23 @@ ul {
   --lightness: 20%;
   background: hsla(var(--hsl), 0.1);
 }
+
+nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 2rem;
+  color: #808080;
+  width: 100%;
+  box-sizing: border-box;
+  z-index: 9999;
+}
+
+.menu:hover {
+  color: #fff;
+  cursor: pointer;
+}
+
+.sitename {
+  font-weight: bold;
+}
