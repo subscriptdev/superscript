@@ -1,3 +1,5 @@
+alert(window.top.location);
+
 document.getElementsByTagName("nav")[0].getElementsByTagName("p")[0].onclick = logo;
 document.getElementsByTagName("nav")[0].getElementsByTagName("p")[1].onclick = start;
 document.getElementsByTagName("nav")[0].getElementsByTagName("p")[2].onclick = pricing;
