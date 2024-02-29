@@ -12,4 +12,4 @@
 - *Always being updated*
 - - -
 ## Current version: v0.02.20-build.23
-## URL: [Click here!](superscript.site)
+## URL: [Click here!](http://superscript.site)
