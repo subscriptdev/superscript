@@ -12,4 +12,4 @@
 - *Always being updated*
 - - -
 ## Current version: v0.02.20-build.23
-## URL: [https://super.script.pro/](http://super.script.cl)
+## URL: [Click here!](superscript.site)
