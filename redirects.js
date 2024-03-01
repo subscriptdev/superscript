@@ -1,19 +1,21 @@
+const weburl = "http://superscript.site/";
+
 function logo() {
-  window.top.location.replace("http://super.script.cl/");
+  window.location.replace(weburl);
 }
 
 function start() {
-  window.top.location.replace("http://super.script.cl/setup/");
+  window.location.replace(weburl+"setup/");
 }
 
 function pricing() {
-  window.top.location.replace("http://super.script.cl/pricing/");
+  window.location.replace(weburl+"pricing/");
 }
 
 function features() {
-  window.top.location.replace("http://super.script.cl/features/");
+  window.location.replace(weburl+"features/");
 }
 
 function about() {
-  window.top.location.replace("http://super.script.cl/about/");
+  window.location.replace(weburl+"about/");
 }
