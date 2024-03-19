@@ -11,5 +11,5 @@
 - *Quick patches*
 - *Always being updated*
 - - -
-## Current version: v0.02.20-build.23
+## Current version: v0.02.20-build.54
 ## URL: [Click here!](http://superscript.site)
